@@ -1,0 +1,5 @@
+# ninja log v5
+379	442	1697044003113083934	ComputerGraphic	e134796bdc3984a
+5	379	1697044003047095536	CMakeFiles/ComputerGraphic.dir/lab_3.c.o	fa1bf1377f32b748
+8	389	1697044890974951330	CMakeFiles/ComputerGraphic.dir/lab_3.c.o	fa1bf1377f32b748
+389	442	1697044891030816933	ComputerGraphic	e134796bdc3984a
